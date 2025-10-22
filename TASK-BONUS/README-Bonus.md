@@ -22,67 +22,29 @@ Komut satırını (Terminal/CMD) açın ve dosyanın bulunduğu dizine gidin. Ar
 
 ```bash
 
-Saniyeyi Saat:Dakika:Saniye Formatına Dönüştürme (Java)
 
-Bu proje, Java dilinde **aritmetik işlemler** ve **formatlı çıktı** kullanarak toplam saniyeyi saat, dakika ve saniye cinsine çeviren bir programdır.
+# 🧮 BMI (Body Mass Index) Calculator
 
-## Proje Amacı
-Java’da:
-- Temel aritmetik işlemleri (`/` ve `%`) kullanmayı,
-- Formatlı çıktı almak için `System.out.printf()` kullanmayı öğrenmek,
-- Zaman hesaplamalarını uygulamak.
+Bu proje, kullanıcıdan alınan kilo ve boy değerlerine göre **Vücut Kitle İndeksi (Body Mass Index - BMI)** hesaplayan basit bir Java uygulamasıdır.
 
-## Kullanılan Teknolojiler
-- **Java SE (Standard Edition)**  
-- **JDK 8+** veya üzeri sürüm
+---
 
-## Çalıştırma Adımları
-1. Aşağıdaki kodu `saatdönüştürme.java` adlı dosyaya kaydedin.
-2. Terminal veya komut satırını açın.
-3. Derlemek için:
+## 📖 Proje Açıklaması
+
+BMI (Body Mass Index), kişinin kilosunun boyuna göre orantılı olup olmadığını gösteren bir ölçüdür.  
+Bu Java programı, sabit olarak tanımlanan kilo ve boy değerlerini kullanarak BMI hesaplar ve sonucu ekrana yazdırır.
+
+---
+
+## ⚙️ Kullanılan Teknolojiler
+
+- **Programlama Dili:** Java  
+- **Sürüm:** Java SE 8 veya üzeri
+
+---
+
+## 🚀 Kurulum ve Çalıştırma
+
+1. Bu projeyi bilgisayarına klonla:
    ```bash
-
-
-# Para Bozma Programı (Java)
-
-Bu proje, Java dilinde bir **tutarın hangi banknotlardan oluştuğunu** hesaplayan basit bir programdır.  
-Program, verilen tutarı en büyükten en küçüğe doğru banknotlarla böler ve her banknottan kaç adet gerektiğini ekrana yazdırır.
-
-## Proje Amacı
-Java’da:
-- Diziler (`int[]`) ile veri yönetimini öğrenmek,
-- Döngüler (`for-each`) kullanarak tekrar eden işlemleri yapmak,
-- Temel aritmetik işlemler (`/`, `%`) ile problemi çözmek.
-
-## Kullanılan Teknolojiler
-- **Java SE (Standard Edition)**  
-- **JDK 8+** veya üzeri sürüm
-
-## Çalıştırma Adımları
-1. Aşağıdaki kodu `ParaBozma.java` adlı dosyaya kaydedin.
-2. Terminal veya komut satırını açın.
-3. Derlemek için:
-   ```bash
-
-
-# Vücut Kitle İndeksi (BMI) Hesaplama - Java
-
-Bu proje, Java dilinde **değişken kullanımı** ve **matematiksel işlem** uygulaması ile BMI hesaplayan basit bir programdır.  
-Program, kişinin kilo ve boy değerlerini kullanarak BMI değerini hesaplar ve ekrana yazdırır.
-
-## Proje Amacı
-Java’da:
-- `double` türü değişkenleri kullanmayı,
-- Matematiksel işlemler yapmayı,
-- Konsola çıktıyı (`System.out.println`) biçimlendirmeyi öğretmek.
-
-## Kullanılan Teknolojiler
-- **Java SE (Standard Edition)**  
-- **JDK 8+** veya üzeri sürüm
-
-## Çalıştırma Adımları
-1. Aşağıdaki kodu `BMI.java` adlı dosyaya kaydedin.
-2. Terminal veya komut satırını açın.
-3. Derlemek için:
-   ```bash
- 
+   git clone https://github.com/<kullanıcı-adın>/BMI.git
