@@ -1,3 +1,5 @@
+ÖĞRENCİ AD SOYAD :EZGİ EFSA GÜLEÇ
+ÖĞRENCİ NO :250541023
 # Mil-Kilometre Dönüşüm Tablosu (Java)
 
 Bu proje, Java dilinde **döngüler** ve **formatlı çıktı** kullanarak belirli mil değerlerini kilometreye çeviren bir programdır.
@@ -58,6 +60,7 @@ Java’da:
 2. Terminal veya komut satırını açın.
 3. Derlemek için:
    ```bash
+
 
 
 
