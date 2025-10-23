@@ -1,3 +1,5 @@
+ÖĞRENCİ AD SOYAD :EZGİ EFSA GÜLEÇ
+ÖĞRENCİ NO :250541023
 # Toplama Serisi Programı (Java)
 
 Bu proje, Java dilinde **toplama işlemini** göstermek için hazırlanmış basit bir örnektir.  
@@ -58,5 +60,6 @@ Java’da değişken tanımlama, çarpma operatörünün (`*`) kullanımı ve ko
 3. Derlemek için:
    ```bash
    
+
 
 
