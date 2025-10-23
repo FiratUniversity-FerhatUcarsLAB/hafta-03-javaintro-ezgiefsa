@@ -1,3 +1,5 @@
+ÖĞRENCİ AD SOYAD :EZGİ EFSA GÜLEÇ
+ÖĞRENCİ NO :250541023
 # Java Tekrar Mesajı Programı
 
 Bu proje, Java diline giriş amacıyla hazırlanmış basit bir örnektir.  
@@ -56,5 +58,6 @@ Bu örnek, özellikle “Merhaba Dünya” sonrası başlangıç alıştırmalar
 3. Derlemek için:
    ```bash
   
+
 
 
