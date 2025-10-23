@@ -1,3 +1,5 @@
+ÖĞRENCİ AD SOYAD :EZGİ EFSA GÜLEÇ
+ÖĞRENCİ NO :250541023
 # İsim Kartı Programı (Java)
 
 Bu proje, Java dilinde **değişken kullanımı** ve **konsola çıktı** işlemini göstermek amacıyla hazırlanmış basit bir örnektir.  
@@ -60,5 +62,6 @@ Java’da:
 2. Terminal veya komut satırını açın.
 3. Derlemek için:
    ```bash
+
 
 
