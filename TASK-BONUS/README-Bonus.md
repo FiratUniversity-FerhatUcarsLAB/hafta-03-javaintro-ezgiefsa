@@ -1,3 +1,5 @@
+ÖĞRENCİ AD SOYAD :EZGİ EFSA GÜLEÇ
+ÖĞRENCİ NO :250541023
 # ASCII Sanat Adı Oluşturucu
 
 Bu basit Java projesi, "Ezgi" adını konsolda büyük harflerle ASCII sanat formatında görüntülemektedir.
@@ -32,5 +34,6 @@ Bu minimalist Java programı, girilen herhangi bir tam sayı Türk Lirası (TL) 
 #Saniye Zaman Dönüştürücü 
 
 Bu basit Java programı, girilen bir toplam saniye miktarını standart saat formatına ($saat:dakika:saniye$) dönüştürür.
+
 
 
