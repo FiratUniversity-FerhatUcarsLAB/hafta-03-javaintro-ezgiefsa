@@ -1,3 +1,5 @@
+ÖĞRENCİ AD SOYAD :EZGİ EFSA GÜLEÇ
+ÖĞRENCİ NO :250541023
 # Üçgen Alanı (Heron Formülü) – Java
 
 Bu proje, **Heron formülü** kullanılarak üçgenin alanını hesaplayan basit bir Java programıdır.  
@@ -76,5 +78,6 @@ Java’da:
 3. Derlemek için:
    ```bash
    
+
 
 
