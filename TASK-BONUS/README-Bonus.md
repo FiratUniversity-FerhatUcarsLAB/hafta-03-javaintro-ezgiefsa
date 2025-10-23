@@ -22,4 +22,9 @@ Komut satırını (Terminal/CMD) açın ve dosyanın bulunduğu dizine gidin. Ar
 
 ```bash#
 
-Bu proje, bir kişinin **Vücut Kitle İndeksi (BMI - Body Mass Index)** değerini hesaplayan basit bir **Java** programıdır.
+Bu basit Java programı, belirlenen ağırlık ve boy değerlerini kullanarak Vücut Kitle İndeksi (BMI/VKİ) değerini hesaplar ve sonucu konsola yazdırır.
+
+Bu minimalist Java programı, girilen herhangi bir tam sayı Türk Lirası (TL) tutarını, mevcut banknot ve madeni paraları (100 TL'den 1 TL'ye kadar) kullanarak en verimli şekilde (en az sayıda birim) nasıl bozulacağını hesaplar.
+
+Bu basit Java programı, girilen bir toplam saniye miktarını standart saat formatına ($saat:dakika:saniye$) dönüştürür.
+
